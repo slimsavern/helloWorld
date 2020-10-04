@@ -3,6 +3,7 @@
 .header-content .header-container {
     
     background: #00abc5;
+    color: #212b33;
 }
 
 .navbar-responsive-menu .responsive-menu:before {
